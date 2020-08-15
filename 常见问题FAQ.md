@@ -14,4 +14,5 @@ Rosetta的能量函数在优化到局部极小时由于导数不连续等因素�
 
 ## **3. 报错serial_to_serial_with_ter...**
 
-![cY1BJibAN7vOdaaQCvrogw](figure/cY1BJibAN7vOdaaQCvrogw.png)
+![cY1BJibAN7vOdaaQCvrogw](figure/cY1BJibAN7vOdaaQCvrogw-7480159.png)
+
